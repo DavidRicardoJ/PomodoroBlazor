@@ -29,7 +29,7 @@
       "url": "img\/sys.png"
     },
     {
-      "hash": "sha256-GeV\/F1IfVY0Wj4OkLHcNJUR1UZcmP15yIH\/uFa+pDCc=",
+      "hash": "sha256-EEZo5LP+oJXpntKZetGlEXgpYtoet8uqI6uSUtEKyVs=",
       "url": "index.html"
     },
     {
@@ -809,11 +809,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-Cbf5iu1BToPav\/0X9kPaq3NbWJlTQ0Uep4co0y1WqGY=",
+      "hash": "sha256-4ZY+GtoyhNq0\/kuC1zbpCle2ICSfFRZHYTxP6fxfQy8=",
       "url": "_framework\/PomodoroApp.dll"
     },
     {
-      "hash": "sha256-Fwua9om9BRt+twxPZ1w6nK+rOxuMzgu05G6Q\/rRICh4=",
+      "hash": "sha256-4Vtyfy7DGZcf6BoFUWpLdaf6aUPW9GxXPpgu0PafOE0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -821,5 +821,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "N0rLMjoK"
+  "version": "PRd0HTll"
 };
