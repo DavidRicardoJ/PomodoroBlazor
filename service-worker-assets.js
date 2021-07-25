@@ -809,11 +809,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-4ZY+GtoyhNq0\/kuC1zbpCle2ICSfFRZHYTxP6fxfQy8=",
+      "hash": "sha256-LY0XaC0EAnlKH4hSeSpzkRXkdX5JOkwDpTPPI3K66Tw=",
       "url": "_framework\/PomodoroApp.dll"
     },
     {
-      "hash": "sha256-4Vtyfy7DGZcf6BoFUWpLdaf6aUPW9GxXPpgu0PafOE0=",
+      "hash": "sha256-BR6zRbK20HGlm+9uiOVd06aGpjiBAjgtJU25cwZBszg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -821,5 +821,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "PRd0HTll"
+  "version": "orcguKMJ"
 };
