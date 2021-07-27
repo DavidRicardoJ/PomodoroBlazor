@@ -1,7 +1,7 @@
 .container {   
     grid-template-columns:  1fr 1fr;
     grid-template-rows: 10vh 80vh 10vh;
-    height: 100%;
+    max-height: 100%;
 }
 
 input[type=range] {
@@ -132,5 +132,26 @@ footer {
     .form {
      padding: 5%;  
      align-self: center; 
+    }
+}
+
+@media screen and (max-height: 730px) {
+    .range-wrap label {
+        font-size: 1.2rem;
+    }
+
+    .range-wrap {
+        padding: 20px;
+    }
+
+    .form {
+        padding: 5%;
+        align-self: center;
+    }
+
+    .form-btn button {
+        margin: 10px;
+        font-size: 1em;
+        
     }
 }
